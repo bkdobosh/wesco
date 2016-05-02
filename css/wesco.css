@@ -9,7 +9,7 @@ text-align:center;
 color:#fff;
 }
 .video-section h1{
-font-size:110px;
+font-size:6em;
 font-family: 'Buenard', serif;
 font-weight:bold;
 text-transform: uppercase;
@@ -19,7 +19,7 @@ text-shadow: 1px 1px 1px #000;
 -moz-text-shadow: 1px 1px 1px #000;
 }
 .video-section h3{
-font-size: 25px;
+font-size: 1.563em;
 font-weight:lighter;
 margin: 0px auto 15px;
 }
@@ -28,4 +28,23 @@ margin: 0px auto 15px;
 
 .contact-form {
     margin-top:70px;
+}
+
+/*Contact Section Styles*/
+.jumbotron {
+background: #358CCE;
+color: #FFF;
+border-radius: 0px;
+}
+.jumbotron-sm { padding-top: 24px;
+padding-bottom: 24px; }
+.jumbotron small {
+color: #FFF;
+}
+.h1 small {
+font-size: 24px;
+}
+#storeHrs{
+	padding-left: 0;
+	list-style: none;
 }
